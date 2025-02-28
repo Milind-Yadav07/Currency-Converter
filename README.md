@@ -15,7 +15,4 @@ A simple and user-friendly web application for converting currencies
 * Provides real-time currency exchange rates
 
 ## Usage
-* Open the index.html file in your web browser
-* Select the source and target currencies from the respective dropdown menus
-* Enter the amount you want to convert in the input field
-* Click the "Convert" button to see the converted value displayed
+
