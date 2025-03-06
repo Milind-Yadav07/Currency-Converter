@@ -11,6 +11,7 @@ A simple and user-friendly web application for converting currencies
 * HTML: Structure and content of the web page
 * CSS: Styling and layout of the application
 * JavaScript: User interaction and dynamic calculations
+  
 ## API
 * Provides real-time currency exchange rates
 
