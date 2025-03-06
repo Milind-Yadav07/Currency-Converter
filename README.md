@@ -1,5 +1,5 @@
 # Currency converter
-
+A simple and user-friendly web application for converting currencies
 
 ## Features
 * Supports conversion between a variety of currencies
